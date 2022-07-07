@@ -1,2 +1,1 @@
-# team_name
-CTF team progect
+# CTF team progect
